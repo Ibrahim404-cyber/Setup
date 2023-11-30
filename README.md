@@ -4,10 +4,9 @@ pkg install git
 
 pkg install python
 
-rm -rf Termux_Set-up
+rm -rf Setup
 
 git clone https://github.com/Ibrahim404-cyber/Setup
 
-cd Termux_Set-up
-
+cd Setup
 python Termux_Set-up.py
