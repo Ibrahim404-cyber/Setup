@@ -1,8 +1,3 @@
-#Semple setup script
-#open source
-#pro ingor
-#user use.....
-
 import os
 import sys
 import time
