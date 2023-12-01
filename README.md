@@ -1,4 +1,4 @@
-#CUPY PAST ON YOUR TERMUX
+#CUPY PAST IN YOUR TERMUX
 
 pkg install git
 
