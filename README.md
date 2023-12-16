@@ -12,4 +12,4 @@ git clone https://github.com/Ibrahim404-cyber/Setup
 
 cd Setup
 
-python2 Termux_Set-up.py
+python Termux_Set-up.py
